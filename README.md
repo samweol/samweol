@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Samweol&fontSize=40&fontAlign=85&height=200&fontColor=fff)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Samweol&fontSize=40&fontAlign=85&height=200&fontColor=fff" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samweol)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=samweol" />
+</div>
 
 ## Skills
 
