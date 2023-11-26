@@ -2,10 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&text=Samweol&fontSize=40&fontAlign=85&height=200&fontColor=fff" />
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=samweol" />
-</div>
-
 ## Skills
 
 <div align="center">
