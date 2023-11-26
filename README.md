@@ -13,7 +13,3 @@
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div><br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samweol&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=samweol&show_icons=true"></div>
